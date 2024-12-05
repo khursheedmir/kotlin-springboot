@@ -175,3 +175,12 @@ Write test cases for a Calculator class with methods like add, subtract, multipl
 Output the test cases in the specified programming language using the chosen testing framework. Ensure the tests are readable, reusable, and adhere to best practices.
 
 ===============================================================================================================
+
+Create a TypeScript React application for a shopping cart system. The application should:
+Display a list of products fetched from a JSON file
+Allow users to add and remove items from the cart
+Implement a cart context using React's Context API
+Use a custom hook to manage cart state and local storage
+Include a header component showing the total items and price
+Create a footer component with a view cart option
+Style the application using a UI library like Chakra UI
